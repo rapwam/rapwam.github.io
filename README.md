@@ -2,7 +2,7 @@
 
 **Learning World-Action Models through Predictive Rehearsal and Action Perturbations**
 
-[Project page](https://rapwam.github.io/-/) · [Manuscript and appendix](https://rapwam.github.io/-/assets/paper/rap-wam-public.pdf)
+[Project page](https://rapwam.github.io/) · [Manuscript and appendix](https://rapwam.github.io/assets/paper/rap-wam-public.pdf)
 
 Yuanpeng He, Ceyao Zhang, Fangjing Li, Kefei Zhu, Lijian Li, Yueheng Li, Tianjia He, Wenpin Jiao, Zhi Jin, Yaodong Yang, and Yuanpei Chen.
 
@@ -30,7 +30,7 @@ python3 -m http.server 8000
 
 Open `http://localhost:8000`. No build step or JavaScript dependency installation is needed.
 
-GitHub Pages serves the repository root on the `main` branch. `.nojekyll` enables direct static publishing. All site assets use relative URLs and support the `/-/` project path.
+GitHub Pages serves the repository root on the `main` branch. `.nojekyll` enables direct static publishing. All site assets use relative URLs and support the root URL.
 
 ## Content maintenance
 

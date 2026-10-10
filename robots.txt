@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rapwam.github.io/-/sitemap.xml

@@ -2,7 +2,7 @@
 
 **Learning World-Action Models through Predictive Rehearsal and Action Perturbations**
 
-[Project page](https://rapwam.github.io/) · [Manuscript and appendix](https://rapwam.github.io/assets/paper/rap-wam-public.pdf)
+[Paper on arXiv](https://arxiv.org/abs/2610.16443) · [Project page](https://rapwam.github.io/) · [Manuscript and appendix](https://rapwam.github.io/assets/paper/rap-wam-public.pdf)
 
 Yuanpeng He, Ceyao Zhang, Fangjing Li, Kefei Zhu, Lijian Li, Yueheng Li, Tianjia He, Wenpin Jiao, Zhi Jin, Yaodong Yang, and Yuanpei Chen.
 
@@ -43,7 +43,7 @@ GitHub Pages serves the repository root on the `main` branch. `.nojekyll` enable
 - `assets/paper/rap-wam-public.pdf`: public English manuscript with author attribution and clearly marked appendix.
 - `assets/fonts/`: self-hosted Inter and Space Grotesk, with SIL Open Font Licenses.
 
-An arXiv link can be added when available.
+The paper is available on [arXiv:2610.16443](https://arxiv.org/abs/2610.16443). The homepage and resource section link to the arXiv abstract page, while the manuscript PDF remains available as a separate download.
 
 The homepage uses a custom blue/red ribbon monogram. Future latents are shown as a schematic token grid, and the supplementary phone-box recording is centered. Individual task recordings are silent; the homepage overview now includes a background score and starts muted.
 
